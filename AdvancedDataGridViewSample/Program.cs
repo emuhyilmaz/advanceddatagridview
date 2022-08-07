@@ -40,6 +40,7 @@ namespace AdvancedDataGridViewSample
             if (HighDPIEnabled)
                 formMain.AutoScaleMode = AutoScaleMode.Dpi;
             Application.Run(formMain);
+            11111
         }
     }
 }
